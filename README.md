@@ -6,9 +6,6 @@
 
 
 
-
-A cada dia que passa, procuro aprender um pouco mais! 👌🏼👊🏼
-##
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vinicius-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -17,6 +14,8 @@ A cada dia que passa, procuro aprender um pouco mais! 👌🏼👊🏼
 </div>
 
 ##
+
+A cada dia que passa, procuro aprender um pouco mais! 👌🏼👊🏼
 
 
 <div> 
