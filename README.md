@@ -2,7 +2,7 @@
 
 - Meu nome é Vinicius Vieira 👻👻
 
-- Desenvolvedor front-end júnior
+- Desenvolvedor front-end 
 
 
 
