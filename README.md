@@ -2,7 +2,7 @@
 
 - Meu nome é Vinicius Vieira 👻👻
 
-- Desenvolvedor back-end 
+- Desenvolvedor de software
 
 - São Paulo - SP 
 
