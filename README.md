@@ -2,7 +2,7 @@
 
 - Meu nome é Vinicius Vieira 👻👻
 
-- Desenvolvedor de software
+- Cursando análise e desenvolvimento de sisitemas na FIAP
 
 - São Paulo - SP 
 
