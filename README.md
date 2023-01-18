@@ -23,5 +23,5 @@ Sou estudante de análise e desenvolvimento de sistemas na Faculdade de Informá
 ##
 🧑‍💼 Entre em contato
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/vinivieiraa/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/vinivieiraa/))
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vinivieiraa/](https://www.linkedin.com/in/vinivieiraa/))]([https://www.linkedin.com/in/vinivieiraa/](https://www.linkedin.com/in/vinivieiraa/))
 [![Gmail Badge](https://img.shields.io/badge/-viniciusvsoares00@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusvsoares00@gmail.com)](mailto:viniciusvsoares00@gmail.com)
