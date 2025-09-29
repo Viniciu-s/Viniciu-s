@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinicius+Vieira;I'm+from+São+Paulo,+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Desenvolvedor Back-end.
+Desenvolvedor Fullstack.
 
 
 ## 🌐 Socials:
