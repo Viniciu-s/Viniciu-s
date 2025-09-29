@@ -37,7 +37,6 @@ Atualmente trabalho com, containers, mensageria e bancos relacionais/não relaci
 			<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details (Dark)" />
 		  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits por Linguagem (Dark)" />
 </table>
----
 
 ## 🌐 Conecte-se comigo
 
