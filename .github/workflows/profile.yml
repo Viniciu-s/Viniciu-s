@@ -15,3 +15,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.READ_ME }}
         with:
           USERNAME: Viniciu-s
+
+      - name: Substitui TOKEN no README.md pelo segredo
+        run: |
+          sed -i "s/token=TOKEN/token=${{ secrets.READ_ME }}/g" README.md
+
+      - name: Commit e push do README.md atualizado
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Atualiza README.md com token privado' || echo "Nada para commitar"
+          git push
