@@ -1,16 +1,17 @@
 # 👋 Olá, eu sou o Vinicius Vieira
 
 Sou **Desenvolvedor Full Stack** focado em criar soluções escaláveis, bem estruturadas e integração entre sistemas.  
-Atualmente trabalho com, containers, mensageria e bancos relacionais/não relacionais.
+Atualmente trabalho com containers, mensageria e bancos relacionais/não relacionais.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Stack
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Front-end & Mobile
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -34,8 +35,8 @@ Atualmente trabalho com, containers, mensageria e bancos relacionais/não relaci
 
 <!-- Cards detalhados do github-profile-summary-cards (SVGs locais, inclui privados, tema escuro) -->
 <table>
-			<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details (Dark)" />
-		  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits por Linguagem (Dark)" />
+	<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details (Dark)" />
+	<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits por Linguagem (Dark)" />
 </table>
 
 ## 🌐 Conecte-se comigo
