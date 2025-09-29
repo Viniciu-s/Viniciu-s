@@ -32,27 +32,11 @@ Atualmente trabalho com, containers, mensageria e bancos relacionais/não relaci
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-<!-- GitHub Readme Stats (conta privados via token) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Viniciu-s&theme=radical&hide_border=false&include_all_commits=true&count_private=true&token=TOKEN" alt="GitHub Stats" />
-
-<!-- GitHub Streak Stats (conta privados via token) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viniciu-s&theme=radical&hide_border=false&count_private=true&token=TOKEN" alt="GitHub Streak" />
-
-<!-- Linguagens mais usadas (conta privados via token) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciu-s&theme=radical&hide_border=false&layout=compact&count_private=true" alt="Top Langs" />
-
-<!-- Cards detalhados do github-profile-summary-cards (SVGs locais, inclui privados) -->
-<br/>
-<img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" />
-<img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per Language" />
-<img src="./profile-summary-card-output/github/2-commits-per-language.svg" alt="Commits per Language" />
-<img src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" />
-<img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive Time" />
-
-</div>
-
+<!-- Cards detalhados do github-profile-summary-cards (SVGs locais, inclui privados, tema escuro) -->
+<table>
+			<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details (Dark)" />
+		  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits por Linguagem (Dark)" />
+</table>
 ---
 
 ## 🌐 Conecte-se comigo
