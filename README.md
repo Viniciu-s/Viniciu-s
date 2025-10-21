@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Vinicius Vieira
 
-Sou **Desenvolvedor Full Stack** focado em criar soluções escaláveis, bem estruturadas e integração entre sistemas.  
-Atualmente trabalho com containers, mensageria e bancos relacionais/não relacionais.
+Sou **Desenvolvedor Full Stack** focado em criar soluções escaláveis, bem estruturadas com integração entre sistemas.  
 
 ---
 
